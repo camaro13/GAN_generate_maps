@@ -1,0 +1,1687 @@
+[
+  {
+    "file": "temple_AnglersTunnel_x02_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x00_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x05_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x00_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x04_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x05_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x00_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x04_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x05_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x01_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x04_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x04_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x02_y06.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_AnglersTunnel_x03_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x00_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x01_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x02_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x03_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x04_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x05_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x01_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x04_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x00_y02.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_BottleGrotto_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x04_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x05_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x00_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x05_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x00_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x05_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x01_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x02_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x03_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x04_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x05_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x01_y06.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x02_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x03_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_BottleGrotto_x04_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x00_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x01_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x05_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x00_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x01_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x05_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x06_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x05_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x06_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y04.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y04.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_CatfishsMaw_x05_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y05.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y05.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x02_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x03_y07.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_CatfishsMaw_x04_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x05_y07.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_CatfishsMaw_x06_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x00_y00.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x01_y00.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x04_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x05_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x01_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x02_y01.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x03_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x04_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x05_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x01_y02.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x03_y02.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x04_y02.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x01_y03.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x02_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x03_y03.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x04_y03.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_ColorDungeon_x01_y04.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x03_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_ColorDungeon_x04_y04.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x06_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x07_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y06.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x05_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x06_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x07_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x08_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y07.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x05_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x06_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x07_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x08_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x00_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x01_y08.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x02_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x03_y08.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x06_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_after_x07_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y06.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x05_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x08_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y07.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x05_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y07.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x08_y07.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x00_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x01_y08.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x02_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x03_y08.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x06_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_EaglesTower_before_x07_y08.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x00_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x07_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x00_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x03_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x04_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x06_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x07_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x00_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x03_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x04_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x05_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x06_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x07_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x00_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x03_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x04_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x05_y03.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_FaceShrine_x06_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x07_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x03_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x04_y04.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_FaceShrine_x05_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x06_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x02_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x05_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x06_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x01_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x03_y06.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x04_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x05_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_FaceShrine_x06_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x00_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x03_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x00_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x03_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x00_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x03_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x05_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x07_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y06.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x02_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x06_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_KeyCavern_x07_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x06_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x01_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x03_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x06_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x00_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x03_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x04_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x05_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x06_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x02_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x03_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x04_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x05_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x06_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x00_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x02_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x03_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x04_y04.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x02_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TailCave_x03_y05.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x00_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x07_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x00_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x02_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x05_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x06_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x07_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x01_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x05_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x06_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x01_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x02_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x05_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x06_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x00_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x02_y05.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "temple_TurtleRock_x03_y05.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "temple_TurtleRock_x04_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x05_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x06_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x07_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x00_y06.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x01_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x05_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x06_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x07_y06.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x00_y07.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x03_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x04_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "temple_TurtleRock_x07_y07.png",
+    "type": 2,
+    "locked": false
+  }
+]
