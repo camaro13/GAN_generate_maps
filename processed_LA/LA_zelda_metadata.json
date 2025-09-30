@@ -1,0 +1,2361 @@
+[
+  {
+    "file": "floortemple_AnglersTunnel_x02_y00.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y00.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x00_y01.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y01.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y01.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x05_y01.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x00_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x01_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x04_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x05_y02.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x00_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x01_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x04_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x05_y03.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x01_y04.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y04.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y04.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x04_y04.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x01_y05.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y05.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y05.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x04_y05.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x02_y06.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_AnglersTunnel_x03_y06.png",
+    "floor": "temple_AnglersTunnel",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_BottleGrotto_x00_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_BottleGrotto_x01_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_BottleGrotto_x02_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_BottleGrotto_x03_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x04_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x05_y00.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x01_y01.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_BottleGrotto_x04_y01.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x00_y02.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_BottleGrotto_x01_y02.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x04_y02.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_BottleGrotto_x05_y02.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_BottleGrotto_x00_y03.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x05_y03.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x00_y04.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_BottleGrotto_x05_y04.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_BottleGrotto_x00_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x01_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x02_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_BottleGrotto_x03_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x04_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_BottleGrotto_x05_y05.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_BottleGrotto_x01_y06.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_BottleGrotto_x02_y06.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_BottleGrotto_x03_y06.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_BottleGrotto_x04_y06.png",
+    "floor": "temple_BottleGrotto",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x00_y00.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x01_y00.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y00.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y00.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y00.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y01.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y01.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y01.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x05_y01.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x00_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x01_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x05_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x06_y02.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y03.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x05_y03.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x06_y03.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y04.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y04.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y04.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x05_y04.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x01_y05.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y05.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y05.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y05.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x02_y06.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y06.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y06.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x03_y07.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x04_y07.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 4,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x05_y07.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 5,
+    "grid_y": 7,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_CatfishsMaw_x06_y07.png",
+    "floor": "temple_CatfishsMaw",
+    "grid_x": 6,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_ColorDungeon_x00_y00.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_ColorDungeon_x01_y00.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x04_y00.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_ColorDungeon_x05_y00.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_ColorDungeon_x00_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_ColorDungeon_x01_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_ColorDungeon_x02_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x03_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_ColorDungeon_x04_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_ColorDungeon_x05_y01.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x01_y02.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x02_y02.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_ColorDungeon_x03_y02.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_ColorDungeon_x04_y02.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x01_y03.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x02_y03.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_ColorDungeon_x03_y03.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x04_y03.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_ColorDungeon_x01_y04.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_ColorDungeon_x02_y04.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_ColorDungeon_x03_y04.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_ColorDungeon_x04_y04.png",
+    "floor": "temple_ColorDungeon",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y00.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y00.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y01.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y01.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y01.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y01.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y02.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y02.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y02.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y02.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y03.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y03.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y03.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y03.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x06_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x07_y05.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x05_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x06_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x07_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 7,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x08_y06.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 8,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x05_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 5,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x06_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 6,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x07_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 7,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x08_y07.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 8,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x00_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 0,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x01_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 1,
+    "grid_y": 8,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x02_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 2,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x03_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 3,
+    "grid_y": 8,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x06_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 6,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_after_x07_y08.png",
+    "floor": "temple_EaglesTower_after",
+    "grid_x": 7,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y00.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y00.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y01.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y02.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y03.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y03.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y03.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y03.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y05.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x05_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x08_y06.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 8,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x05_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 5,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 7,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x08_y07.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 8,
+    "grid_y": 7,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x00_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 0,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x01_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 1,
+    "grid_y": 8,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x02_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 2,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x03_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 3,
+    "grid_y": 8,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x06_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 6,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_EaglesTower_before_x07_y08.png",
+    "floor": "temple_EaglesTower_before",
+    "grid_x": 7,
+    "grid_y": 8,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x00_y00.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x07_y00.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 7,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x00_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x03_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_FaceShrine_x04_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_FaceShrine_x07_y01.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x00_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_FaceShrine_x02_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x03_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x04_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_FaceShrine_x05_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_FaceShrine_x07_y02.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 7,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_FaceShrine_x00_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x02_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_FaceShrine_x03_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_FaceShrine_x04_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_FaceShrine_x05_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x07_y03.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 7,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x02_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x03_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x04_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_FaceShrine_x05_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y04.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y05.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x02_y05.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x05_y05.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y05.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_FaceShrine_x01_y06.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_FaceShrine_x03_y06.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_FaceShrine_x04_y06.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x05_y06.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_FaceShrine_x06_y06.png",
+    "floor": "temple_FaceShrine",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_KeyCavern_x00_y00.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y00.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y00.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_KeyCavern_x03_y00.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_KeyCavern_x00_y01.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y01.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y01.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x03_y01.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x00_y02.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y02.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y02.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_KeyCavern_x03_y02.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y02.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y03.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y03.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x05_y03.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y03.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_KeyCavern_x07_y03.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 7,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y04.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y04.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y05.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y05.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y05.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y06.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y06.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_KeyCavern_x01_y07.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_KeyCavern_x02_y07.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x06_y07.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 6,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_KeyCavern_x07_y07.png",
+    "floor": "temple_KeyCavern",
+    "grid_x": 7,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TailCave_x06_y00.png",
+    "floor": "temple_TailCave",
+    "grid_x": 6,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x01_y01.png",
+    "floor": "temple_TailCave",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TailCave_x02_y01.png",
+    "floor": "temple_TailCave",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TailCave_x03_y01.png",
+    "floor": "temple_TailCave",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x06_y01.png",
+    "floor": "temple_TailCave",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TailCave_x00_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x02_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x03_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TailCave_x04_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x05_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x06_y02.png",
+    "floor": "temple_TailCave",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TailCave_x00_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x01_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x02_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x03_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TailCave_x04_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x05_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TailCave_x06_y03.png",
+    "floor": "temple_TailCave",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TailCave_x00_y04.png",
+    "floor": "temple_TailCave",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TailCave_x02_y04.png",
+    "floor": "temple_TailCave",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TailCave_x03_y04.png",
+    "floor": "temple_TailCave",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TailCave_x04_y04.png",
+    "floor": "temple_TailCave",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TailCave_x01_y05.png",
+    "floor": "temple_TailCave",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TailCave_x02_y05.png",
+    "floor": "temple_TailCave",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TailCave_x03_y05.png",
+    "floor": "temple_TailCave",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y00.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y00.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x00_y01.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y01.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y01.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x07_y01.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x00_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x01_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x02_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x05_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x06_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x07_y02.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 7,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x01_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x02_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x05_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x06_y03.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x01_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x02_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x05_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x06_y04.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x00_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x01_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x02_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x05_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x06_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x07_y05.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x00_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x01_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x02_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x05_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floortemple_TurtleRock_x06_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floortemple_TurtleRock_x07_y06.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 7,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floortemple_TurtleRock_x00_y07.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 6
+  },
+  {
+    "file": "floortemple_TurtleRock_x03_y07.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floortemple_TurtleRock_x04_y07.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 4,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floortemple_TurtleRock_x07_y07.png",
+    "floor": "temple_TurtleRock",
+    "grid_x": 7,
+    "grid_y": 7,
+    "room_type": 2
+  }
+]

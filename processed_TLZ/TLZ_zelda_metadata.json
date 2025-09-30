@@ -1,0 +1,3215 @@
+[
+  {
+    "file": "floorLevel1Q1_x01_y00.png",
+    "floor": "Level1Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel1Q1_x02_y00.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel1Q1_x02_y01.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel1Q1_x04_y01.png",
+    "floor": "Level1Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel1Q1_x05_y01.png",
+    "floor": "Level1Q1",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel1Q1_x00_y02.png",
+    "floor": "Level1Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel1Q1_x01_y02.png",
+    "floor": "Level1Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel1Q1_x02_y02.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel1Q1_x03_y02.png",
+    "floor": "Level1Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel1Q1_x04_y02.png",
+    "floor": "Level1Q1",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel1Q1_x01_y03.png",
+    "floor": "Level1Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel1Q1_x02_y03.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel1Q1_x03_y03.png",
+    "floor": "Level1Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel1Q1_x02_y04.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel1Q1_x01_y05.png",
+    "floor": "Level1Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel1Q1_x02_y05.png",
+    "floor": "Level1Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel1Q1_x03_y05.png",
+    "floor": "Level1Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x01_y00.png",
+    "floor": "Level2Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel2Q1_x02_y00.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel2Q1_x02_y01.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x03_y01.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel2Q1_x02_y02.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x03_y02.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel2Q1_x02_y03.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel2Q1_x03_y03.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel2Q1_x02_y04.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel2Q1_x03_y04.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel2Q1_x02_y05.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x03_y05.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel2Q1_x00_y06.png",
+    "floor": "Level2Q1",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel2Q1_x01_y06.png",
+    "floor": "Level2Q1",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x02_y06.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel2Q1_x03_y06.png",
+    "floor": "Level2Q1",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel2Q1_x01_y07.png",
+    "floor": "Level2Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel2Q1_x02_y07.png",
+    "floor": "Level2Q1",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x01_y00.png",
+    "floor": "Level3Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x02_y00.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel3Q1_x02_y01.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel3Q1_x04_y01.png",
+    "floor": "Level3Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel3Q1_x00_y02.png",
+    "floor": "Level3Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x01_y02.png",
+    "floor": "Level3Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x02_y02.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x03_y02.png",
+    "floor": "Level3Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel3Q1_x04_y02.png",
+    "floor": "Level3Q1",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel3Q1_x00_y03.png",
+    "floor": "Level3Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x01_y03.png",
+    "floor": "Level3Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel3Q1_x02_y03.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x03_y03.png",
+    "floor": "Level3Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x04_y03.png",
+    "floor": "Level3Q1",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x00_y04.png",
+    "floor": "Level3Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel3Q1_x02_y04.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x02_y05.png",
+    "floor": "Level3Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel3Q1_x03_y05.png",
+    "floor": "Level3Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel4Q1_x00_y00.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel4Q1_x01_y00.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel4Q1_x02_y00.png",
+    "floor": "Level4Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x03_y00.png",
+    "floor": "Level4Q1",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel4Q1_x00_y01.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel4Q1_x01_y01.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel4Q1_x02_y01.png",
+    "floor": "Level4Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel4Q1_x03_y01.png",
+    "floor": "Level4Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel4Q1_x00_y02.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x01_y02.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel4Q1_x00_y03.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x01_y03.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x02_y03.png",
+    "floor": "Level4Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel4Q1_x00_y04.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel4Q1_x00_y05.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x01_y05.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel4Q1_x01_y06.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel4Q1_x02_y06.png",
+    "floor": "Level4Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel4Q1_x00_y07.png",
+    "floor": "Level4Q1",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel4Q1_x01_y07.png",
+    "floor": "Level4Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel5Q1_x01_y00.png",
+    "floor": "Level5Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel5Q1_x02_y00.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel5Q1_x00_y01.png",
+    "floor": "Level5Q1",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel5Q1_x01_y01.png",
+    "floor": "Level5Q1",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel5Q1_x02_y01.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel5Q1_x03_y01.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel5Q1_x00_y02.png",
+    "floor": "Level5Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel5Q1_x01_y02.png",
+    "floor": "Level5Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel5Q1_x02_y02.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel5Q1_x03_y02.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel5Q1_x00_y03.png",
+    "floor": "Level5Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel5Q1_x03_y03.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel5Q1_x02_y04.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel5Q1_x03_y04.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel5Q1_x01_y05.png",
+    "floor": "Level5Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel5Q1_x02_y05.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel5Q1_x03_y05.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel5Q1_x00_y06.png",
+    "floor": "Level5Q1",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel5Q1_x01_y06.png",
+    "floor": "Level5Q1",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel5Q1_x02_y06.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel5Q1_x03_y06.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel5Q1_x02_y07.png",
+    "floor": "Level5Q1",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel5Q1_x03_y07.png",
+    "floor": "Level5Q1",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel6Q1_x01_y00.png",
+    "floor": "Level6Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel6Q1_x02_y00.png",
+    "floor": "Level6Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x03_y00.png",
+    "floor": "Level6Q1",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel6Q1_x04_y00.png",
+    "floor": "Level6Q1",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel6Q1_x00_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel6Q1_x01_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel6Q1_x02_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel6Q1_x03_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x04_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel6Q1_x05_y01.png",
+    "floor": "Level6Q1",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel6Q1_x00_y02.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel6Q1_x01_y02.png",
+    "floor": "Level6Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel6Q1_x04_y02.png",
+    "floor": "Level6Q1",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x05_y02.png",
+    "floor": "Level6Q1",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel6Q1_x00_y03.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x01_y03.png",
+    "floor": "Level6Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x02_y03.png",
+    "floor": "Level6Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel6Q1_x04_y03.png",
+    "floor": "Level6Q1",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel6Q1_x00_y04.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x00_y05.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel6Q1_x00_y06.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel6Q1_x02_y06.png",
+    "floor": "Level6Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel6Q1_x00_y07.png",
+    "floor": "Level6Q1",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel6Q1_x01_y07.png",
+    "floor": "Level6Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel6Q1_x02_y07.png",
+    "floor": "Level6Q1",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel7Q1_x00_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x01_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x02_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel7Q1_x03_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x04_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x05_y00.png",
+    "floor": "Level7Q1",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel7Q1_x00_y01.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x01_y01.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x02_y01.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel7Q1_x03_y01.png",
+    "floor": "Level7Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x04_y01.png",
+    "floor": "Level7Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel7Q1_x00_y02.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel7Q1_x01_y02.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel7Q1_x02_y02.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel7Q1_x03_y02.png",
+    "floor": "Level7Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel7Q1_x00_y03.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x01_y03.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel7Q1_x02_y03.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel7Q1_x00_y04.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel7Q1_x01_y04.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x00_y05.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x01_y05.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x02_y05.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x03_y05.png",
+    "floor": "Level7Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel7Q1_x00_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel7Q1_x01_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x02_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x03_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x04_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel7Q1_x05_y06.png",
+    "floor": "Level7Q1",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel7Q1_x00_y07.png",
+    "floor": "Level7Q1",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel7Q1_x01_y07.png",
+    "floor": "Level7Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel7Q1_x02_y07.png",
+    "floor": "Level7Q1",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x03_y00.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x02_y01.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x03_y01.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x04_y01.png",
+    "floor": "Level8Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel8Q1_x01_y02.png",
+    "floor": "Level8Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel8Q1_x02_y02.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x03_y02.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x00_y03.png",
+    "floor": "Level8Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel8Q1_x01_y03.png",
+    "floor": "Level8Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x02_y03.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel8Q1_x03_y03.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel8Q1_x04_y03.png",
+    "floor": "Level8Q1",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel8Q1_x00_y04.png",
+    "floor": "Level8Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel8Q1_x01_y04.png",
+    "floor": "Level8Q1",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel8Q1_x02_y04.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x03_y04.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x01_y05.png",
+    "floor": "Level8Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel8Q1_x02_y05.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel8Q1_x03_y05.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel8Q1_x04_y05.png",
+    "floor": "Level8Q1",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel8Q1_x03_y06.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x01_y07.png",
+    "floor": "Level8Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel8Q1_x02_y07.png",
+    "floor": "Level8Q1",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel8Q1_x03_y07.png",
+    "floor": "Level8Q1",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorLevel8Q1_x04_y07.png",
+    "floor": "Level8Q1",
+    "grid_x": 4,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel9Q1_x01_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x02_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel9Q1_x03_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x04_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x05_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x06_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel9Q1_x07_y00.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x00_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x01_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x02_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x03_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x04_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x05_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x06_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x07_y01.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x00_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x01_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x02_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x03_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x04_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x05_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x06_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x07_y02.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x00_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x01_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x02_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel9Q1_x03_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x04_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x05_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x06_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x07_y03.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x00_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x01_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x02_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel9Q1_x03_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel9Q1_x04_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x05_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x06_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x07_y04.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel9Q1_x00_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x01_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x02_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x03_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 3
+  },
+  {
+    "file": "floorLevel9Q1_x04_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x05_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x06_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel9Q1_x07_y05.png",
+    "floor": "Level9Q1",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorLevel9Q1_x01_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x02_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorLevel9Q1_x03_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x04_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x05_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x06_y06.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floorLevel9Q1_x01_y07.png",
+    "floor": "Level9Q1",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x03_y07.png",
+    "floor": "Level9Q1",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floorLevel9Q1_x04_y07.png",
+    "floor": "Level9Q1",
+    "grid_x": 4,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floorLevel9Q1_x06_y07.png",
+    "floor": "Level9Q1",
+    "grid_x": 6,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y00.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y00.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y01.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y01.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y02.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y03.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y03.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y04.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y04.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y05.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y06.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y06.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x00_y07.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel1Q2_x01_y07.png",
+    "floor": "ZeldaLevel1Q2",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y00.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y01.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y01.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y01.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y02.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y02.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y02.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y03.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y03.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y03.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y04.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y04.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y04.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y05.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x01_y05.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y05.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y06.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y06.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x00_y07.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel2Q2_x02_y07.png",
+    "floor": "ZeldaLevel2Q2",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y00.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x00_y01.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y01.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x00_y02.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y02.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y03.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y04.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y05.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x03_y05.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x02_y06.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel3Q2_x03_y06.png",
+    "floor": "ZeldaLevel3Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y00.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y00.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y00.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y01.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y01.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y01.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y01.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y02.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y02.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y02.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y02.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y03.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y03.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y03.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y03.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y04.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y04.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y04.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y04.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y05.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y05.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y05.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y05.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y06.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y06.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y06.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x03_y06.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x00_y07.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x01_y07.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel4Q2_x02_y07.png",
+    "floor": "ZeldaLevel4Q2",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y00.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y00.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y00.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y01.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y01.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y01.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y02.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y03.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y03.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y04.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y04.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y05.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y06.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y06.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y06.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x00_y07.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 0,
+    "grid_y": 7,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x01_y07.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 1,
+    "grid_y": 7,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel5Q2_x02_y07.png",
+    "floor": "ZeldaLevel5Q2",
+    "grid_x": 2,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y00.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x04_y00.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x05_y00.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y01.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y01.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x05_y01.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y02.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y02.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x05_y02.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y03.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y03.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x05_y03.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x01_y04.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y04.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y04.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x00_y05.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x01_y05.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y05.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y05.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x02_y06.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y06.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel6Q2_x03_y07.png",
+    "floor": "ZeldaLevel6Q2",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y00.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x03_y00.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x04_y00.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x05_y00.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y00.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y01.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y01.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y02.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x03_y02.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x04_y02.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y02.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y03.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x03_y03.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x04_y03.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y03.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y04.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x03_y04.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x04_y04.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y04.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y05.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x00_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x01_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x02_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x03_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x04_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x05_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel7Q2_x06_y06.png",
+    "floor": "ZeldaLevel7Q2",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x02_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 2,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x03_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 3,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x04_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 4,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 0,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x06_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 6,
+    "grid_y": 0,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y00.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 0,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y01.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y01.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y01.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y02.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 2,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y02.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 2,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y02.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y02.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y03.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y03.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y03.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y03.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 3,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y04.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y04.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y04.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y04.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y05.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y05.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y05.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y05.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x00_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 0,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x01_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x02_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x03_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x04_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x05_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y06.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 6,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel8Q2_x07_y07.png",
+    "floor": "ZeldaLevel8Q2",
+    "grid_x": 7,
+    "grid_y": 7,
+    "room_type": 4
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x00_y00.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 0,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y00.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y00.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 0,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x07_y00.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 7,
+    "grid_y": 0,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x00_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 0,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 1,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 1,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 1,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x07_y01.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 7,
+    "grid_y": 1,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y02.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y02.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 2,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y02.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y02.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 2,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 3,
+    "room_type": 5
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 3,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 3,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y03.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 3,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x00_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 0,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 4,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 4,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 4,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 4,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x07_y04.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 7,
+    "grid_y": 4,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x00_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 0,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 5,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 5,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x07_y05.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 7,
+    "grid_y": 5,
+    "room_type": 7
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x01_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 1,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x02_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 2,
+    "grid_y": 6,
+    "room_type": 3
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 6,
+    "room_type": 6
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x05_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 5,
+    "grid_y": 6,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x06_y06.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 6,
+    "grid_y": 6,
+    "room_type": 2
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x03_y07.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 3,
+    "grid_y": 7,
+    "room_type": 1
+  },
+  {
+    "file": "floorZeldaLevel9Q2_x04_y07.png",
+    "floor": "ZeldaLevel9Q2",
+    "grid_x": 4,
+    "grid_y": 7,
+    "room_type": 4
+  }
+]

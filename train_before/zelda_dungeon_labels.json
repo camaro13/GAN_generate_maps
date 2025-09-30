@@ -1,0 +1,2297 @@
+[
+  {
+    "file": "Level1Q1_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x04_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x05_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x00_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x04_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x03_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x01_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x02_y05.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level1Q1_x03_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x01_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x00_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x03_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level2Q1_x02_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x01_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x04_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x00_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x04_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x04_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x00_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x02_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level3Q1_x03_y05.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x02_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x03_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x03_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x02_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x02_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x00_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level4Q1_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x01_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x00_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x01_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x00_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x01_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x00_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x02_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level5Q1_x03_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x02_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x03_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x04_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x01_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x02_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x03_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x04_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x05_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x01_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x04_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x05_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x04_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x02_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x00_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level6Q1_x02_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x03_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x04_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x05_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x03_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x04_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y02.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "Level7Q1_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x03_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y03.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level7Q1_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y04.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "Level7Q1_x01_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x03_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x04_y06.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x05_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x00_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level7Q1_x02_y07.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x03_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x02_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x03_y01.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x04_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x01_y02.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x02_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x03_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x00_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x01_y03.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x02_y03.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x04_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x00_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x01_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x02_y04.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x03_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x01_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x02_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x03_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x04_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x03_y06.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x01_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x02_y07.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "Level8Q1_x03_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "Level8Q1_x04_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x00_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x00_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x00_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x00_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y04.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y04.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y05.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x07_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x01_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x02_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x05_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y06.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "Level9Q1_x01_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x03_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x04_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "Level9Q1_x06_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y00.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x00_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel1Q2_x01_y07.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y05.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x00_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel2Q2_x02_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y00.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x00_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x00_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y02.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x03_y05.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x02_y06.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel3Q2_x03_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y02.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y02.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y04.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y04.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y04.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y05.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y05.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y06.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x03_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x00_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x01_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel4Q2_x02_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x00_y07.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x01_y07.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel5Q2_x02_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x04_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x05_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x05_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x05_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x05_y03.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x01_y04.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x00_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x01_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y05.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x02_y06.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel6Q2_x03_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x03_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x04_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x05_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y01.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x03_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x04_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x03_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x04_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x03_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x04_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x01_y06.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x02_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x04_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel7Q2_x05_y06.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel7Q2_x06_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x02_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x03_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x04_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y00.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x06_y00.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y00.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y01.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y02.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y02.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y03.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y03.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y05.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x00_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x02_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x03_y06.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x04_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x05_y06.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y06.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel8Q2_x07_y07.png",
+    "type": 4,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x00_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y00.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x07_y00.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x00_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y01.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y01.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y01.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x07_y01.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y02.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y02.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y03.png",
+    "type": 5,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y03.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y03.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y03.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x00_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y04.png",
+    "type": 6,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y04.png",
+    "type": 3,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y04.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y04.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x07_y04.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x00_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y05.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y05.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x07_y05.png",
+    "type": 7,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x01_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x02_y06.png",
+    "type": 3,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y06.png",
+    "type": 6,
+    "locked": true
+  },
+  {
+    "file": "ZeldaLevel9Q2_x05_y06.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x06_y06.png",
+    "type": 2,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x03_y07.png",
+    "type": 1,
+    "locked": false
+  },
+  {
+    "file": "ZeldaLevel9Q2_x04_y07.png",
+    "type": 4,
+    "locked": false
+  }
+]
