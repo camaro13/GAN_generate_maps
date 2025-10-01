@@ -3,12 +3,11 @@ import json
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.utils.data import Dataset, DataLoader, WeightedRandomSampler
+from torch.utils.data import Dataset, DataLoader
 from PIL import Image
 import torchvision.transforms as transforms
 import torchvision.utils as vutils
 import csv
-import numpy as np
 from datetime import datetime
 
 # =========================
@@ -50,7 +49,7 @@ class ZeldaDataset(Dataset):
         return image, label
 
 # =========================
-# 3. Transform (증강 포함)
+# 3. Transform (추가 증강 없음, Tensor + Normalize만)
 # =========================
 transform = transforms.Compose([
     transforms.ToTensor(),
@@ -58,15 +57,7 @@ transform = transforms.Compose([
 ])
 
 dataset = ZeldaDataset(IMG_DIR, JSON_PATH, transform=transform)
-
-# WeightedRandomSampler (데이터 불균형 보정)
-labels = [d["room_type"]-1 for d in dataset.metadata]  # 0~6
-class_counts = np.bincount(labels)  
-class_weights = 1. / class_counts  
-sample_weights = [class_weights[label] for label in labels]
-
-sampler = WeightedRandomSampler(sample_weights, num_samples=len(sample_weights), replacement=True)
-dataloader = DataLoader(dataset, batch_size=128, sampler=sampler, num_workers=2)
+dataloader = DataLoader(dataset, batch_size=128, shuffle=True, num_workers=2)
 
 # =========================
 # 4. cGAN 모델 정의 (room_type=1~7 → 7개 클래스)
@@ -74,9 +65,9 @@ dataloader = DataLoader(dataset, batch_size=128, sampler=sampler, num_workers=2)
 class Generator(nn.Module):
     def __init__(self):
         super(Generator, self).__init__()
-        self.label_emb = nn.Embedding(7, 100)  # 라벨 차원 ↑
+        self.label_emb = nn.Embedding(7, 32)  # 라벨 차원 32
         self.model = nn.Sequential(
-            nn.ConvTranspose2d(200, 512, 4, 1, 0, bias=False),  # noise 100 + label 100 = 200
+            nn.ConvTranspose2d(100+32, 512, 4, 1, 0, bias=False),
             nn.BatchNorm2d(512),
             nn.ReLU(True),
 
@@ -102,16 +93,16 @@ class Generator(nn.Module):
 
     def forward(self, noise, labels):
         label_input = self.label_emb(labels).unsqueeze(2).unsqueeze(3)
-        input = torch.cat((noise, label_input), 1)  # (B,200,1,1)
+        input = torch.cat((noise, label_input), 1)  # (B,132,1,1)
         return self.model(input)
 
 
 class Discriminator(nn.Module):
     def __init__(self):
         super(Discriminator, self).__init__()
-        self.label_emb = nn.Embedding(7, 100)
+        self.label_emb = nn.Embedding(7, 32)
         self.model = nn.Sequential(
-            nn.Conv2d(3+100, 64, 4, 2, 1, bias=False),
+            nn.Conv2d(3+32, 64, 4, 2, 1, bias=False),
             nn.LeakyReLU(0.2, inplace=True),
 
             nn.Conv2d(64, 128, 4, 2, 1, bias=False),
@@ -133,7 +124,7 @@ class Discriminator(nn.Module):
 
     def forward(self, img, labels):
         label_input = self.label_emb(labels).unsqueeze(2).unsqueeze(3)
-        label_input = label_input.expand(labels.size(0), 100, img.size(2), img.size(3))
+        label_input = label_input.expand(labels.size(0), 32, img.size(2), img.size(3))
         input = torch.cat((img, label_input), 1)
         return self.model(input)
 
@@ -147,7 +138,7 @@ if __name__ == "__main__":
 
     criterion = nn.BCELoss()
     optimizerD = optim.Adam(netD.parameters(), lr=0.0001, betas=(0.5, 0.999))
-    optimizerG = optim.Adam(netG.parameters(), lr=0.0002, betas=(0.5, 0.999))
+    optimizerG = optim.Adam(netG.parameters(), lr=0.0001, betas=(0.5, 0.999))
 
     # 고정된 노이즈 & 라벨 (샘플 확인용)
     fixed_noise = torch.randn(7, 100, 1, 1, device=device)
@@ -159,7 +150,7 @@ if __name__ == "__main__":
         writer = csv.writer(f)
         writer.writerow(["Epoch", "Loss_D", "Loss_G", "Time"])
 
-    epochs = 500  # 추천
+    epochs = 500
     for epoch in range(epochs):
         for i, (imgs, labels) in enumerate(dataloader):
             real_imgs, labels = imgs.to(device), labels.to(device)
