@@ -49,77 +49,87 @@ class ZeldaDataset(Dataset):
         return image, label
 
 # =========================
-# 3. Transform (추가 증강 없음, Tensor + Normalize만)
+# 3. Transform
 # =========================
 transform = transforms.Compose([
+    transforms.Resize((128, 128)),   # ⭐ 128 크기
     transforms.ToTensor(),
-    transforms.Normalize([0.5], [0.5])  # [-1, 1]
+    transforms.Normalize([0.5], [0.5])
 ])
 
 dataset = ZeldaDataset(IMG_DIR, JSON_PATH, transform=transform)
-dataloader = DataLoader(dataset, batch_size=128, shuffle=True, num_workers=2)
+dataloader = DataLoader(dataset, batch_size=64, shuffle=True, num_workers=2)
 
 # =========================
-# 4. cGAN 모델 정의 (room_type=1~7 → 7개 클래스)
+# 4. Generator (128x128)
 # =========================
 class Generator(nn.Module):
     def __init__(self):
         super(Generator, self).__init__()
-        self.label_emb = nn.Embedding(7, 32)  # 라벨 차원 32
+        self.label_emb = nn.Embedding(7, 32)
         self.model = nn.Sequential(
-            nn.ConvTranspose2d(100+32, 512, 4, 1, 0, bias=False),
+            nn.ConvTranspose2d(100+32, 1024, 4, 1, 0, bias=False),  # 4x4
+            nn.BatchNorm2d(1024),
+            nn.ReLU(True),
+
+            nn.ConvTranspose2d(1024, 512, 4, 2, 1, bias=False),    # 8x8
             nn.BatchNorm2d(512),
             nn.ReLU(True),
 
-            nn.ConvTranspose2d(512, 256, 4, 2, 1, bias=False),
+            nn.ConvTranspose2d(512, 256, 4, 2, 1, bias=False),     # 16x16
             nn.BatchNorm2d(256),
             nn.ReLU(True),
 
-            nn.ConvTranspose2d(256, 128, 4, 2, 1, bias=False),
+            nn.ConvTranspose2d(256, 128, 4, 2, 1, bias=False),     # 32x32
             nn.BatchNorm2d(128),
             nn.ReLU(True),
 
-            nn.ConvTranspose2d(128, 64, 4, 2, 1, bias=False),
+            nn.ConvTranspose2d(128, 64, 4, 2, 1, bias=False),      # 64x64
             nn.BatchNorm2d(64),
             nn.ReLU(True),
 
-            nn.ConvTranspose2d(64, 32, 4, 2, 1, bias=False),
+            nn.ConvTranspose2d(64, 32, 4, 2, 1, bias=False),       # 128x128
             nn.BatchNorm2d(32),
             nn.ReLU(True),
 
-            nn.ConvTranspose2d(32, 3, 4, 2, 1, bias=False),
+            nn.ConvTranspose2d(32, 3, 3, 1, 1, bias=False),
             nn.Tanh()
         )
 
     def forward(self, noise, labels):
         label_input = self.label_emb(labels).unsqueeze(2).unsqueeze(3)
-        input = torch.cat((noise, label_input), 1)  # (B,132,1,1)
+        input = torch.cat((noise, label_input), 1)
         return self.model(input)
 
-
+# =========================
+# 5. Discriminator (128x128)
+# =========================
 class Discriminator(nn.Module):
     def __init__(self):
         super(Discriminator, self).__init__()
         self.label_emb = nn.Embedding(7, 32)
         self.model = nn.Sequential(
-            nn.Conv2d(3+32, 64, 4, 2, 1, bias=False),
+            nn.Conv2d(3+32, 64, 4, 2, 1, bias=False),   # 128 → 64
             nn.LeakyReLU(0.2, inplace=True),
 
-            nn.Conv2d(64, 128, 4, 2, 1, bias=False),
+            nn.Conv2d(64, 128, 4, 2, 1, bias=False),    # 64 → 32
             nn.BatchNorm2d(128),
             nn.LeakyReLU(0.2, inplace=True),
 
-            nn.Conv2d(128, 256, 4, 2, 1, bias=False),
+            nn.Conv2d(128, 256, 4, 2, 1, bias=False),   # 32 → 16
             nn.BatchNorm2d(256),
             nn.LeakyReLU(0.2, inplace=True),
 
-            nn.Conv2d(256, 512, 4, 2, 1, bias=False),
+            nn.Conv2d(256, 512, 4, 2, 1, bias=False),   # 16 → 8
             nn.BatchNorm2d(512),
             nn.LeakyReLU(0.2, inplace=True),
 
+            nn.Conv2d(512, 1024, 4, 2, 1, bias=False),  # 8 → 4
+            nn.BatchNorm2d(1024),
+            nn.LeakyReLU(0.2, inplace=True),
+
             nn.Flatten(),
-            nn.Linear(32768, 1),
-            nn.Sigmoid()
+            nn.Linear(1024*4*4, 1)   # ⭐ Sigmoid 제거
         )
 
     def forward(self, img, labels):
@@ -129,22 +139,41 @@ class Discriminator(nn.Module):
         return self.model(input)
 
 # =========================
-# 5. 학습 루프
+# 6. Gradient Penalty
+# =========================
+def gradient_penalty(D, real_data, fake_data, labels, device):
+    alpha = torch.rand(real_data.size(0), 1, 1, 1, device=device)
+    interpolates = alpha * real_data + (1 - alpha) * fake_data
+    interpolates.requires_grad_(True)
+    d_interpolates = D(interpolates, labels)
+    gradients = torch.autograd.grad(
+        outputs=d_interpolates, inputs=interpolates,
+        grad_outputs=torch.ones_like(d_interpolates),
+        create_graph=True, retain_graph=True, only_inputs=True  # ⭐ retain_graph=True
+    )[0]
+    gradients = gradients.view(gradients.size(0), -1)
+    gp = ((gradients.norm(2, dim=1) - 1) ** 2).mean()
+    return gp
+
+# =========================
+# 7. 학습 루프 (WGAN-GP)
 # =========================
 if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if device.type == "cuda":
+        _ = torch.randn(1).to(device) 
     netG = Generator().to(device)
     netD = Discriminator().to(device)
 
-    criterion = nn.BCELoss()
-    optimizerD = optim.Adam(netD.parameters(), lr=0.0001, betas=(0.5, 0.999))
-    optimizerG = optim.Adam(netG.parameters(), lr=0.0001, betas=(0.5, 0.999))
+    optimizerD = optim.Adam(netD.parameters(), lr=0.0001, betas=(0.0, 0.9))
+    optimizerG = optim.Adam(netG.parameters(), lr=0.0001, betas=(0.0, 0.9))
 
-    # 고정된 노이즈 & 라벨 (샘플 확인용)
+    lambda_gp = 10
+    n_critic = 5
+
     fixed_noise = torch.randn(7, 100, 1, 1, device=device)
-    fixed_labels = torch.arange(0, 7, device=device)  # 0~6 (room_type=1~7)
+    fixed_labels = torch.arange(0, 7, device=device)
 
-    # CSV 로그 저장 준비
     log_path = os.path.join(OUTPUT_DIR, "training_log.csv")
     with open(log_path, "w", newline="") as f:
         writer = csv.writer(f)
@@ -156,67 +185,54 @@ if __name__ == "__main__":
             real_imgs, labels = imgs.to(device), labels.to(device)
             b_size = real_imgs.size(0)
 
-            real = torch.full((b_size,), 1.0, device=device)
-            fake = torch.full((b_size,), 0.0, device=device)
-
             # ---- Discriminator ----
-            netD.zero_grad()
-            output = netD(real_imgs, labels).view(-1)
-            lossD_real = criterion(output, real)
-            lossD_real.backward()
+            for _ in range(n_critic):
+                netD.zero_grad()
+                noise = torch.randn(b_size, 100, 1, 1, device=device)
+                fake_imgs = netG(noise, labels)
 
-            noise = torch.randn(b_size, 100, 1, 1, device=device)
-            fake_imgs = netG(noise, labels)
-            output = netD(fake_imgs.detach(), labels).view(-1)
-            lossD_fake = criterion(output, fake)
-            lossD_fake.backward()
-            optimizerD.step()
+                real_scores = netD(real_imgs, labels)
+                fake_scores = netD(fake_imgs.detach(), labels)
+
+                gp = gradient_penalty(netD, real_imgs, fake_imgs, labels, device)
+                lossD = (fake_scores.mean() - real_scores.mean()) + lambda_gp * gp
+                lossD.backward()
+                optimizerD.step()
 
             # ---- Generator ----
             netG.zero_grad()
-            output = netD(fake_imgs, labels).view(-1)
-            lossG = criterion(output, real)
+            noise = torch.randn(b_size, 100, 1, 1, device=device)  # ⭐ 새 노이즈 생성
+            fake_imgs = netG(noise, labels)
+            fake_scores = netD(fake_imgs, labels)
+            lossG = -fake_scores.mean()
             lossG.backward()
             optimizerG.step()
 
-        # 로그 출력 및 CSV 기록
         now_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print(f"[Epoch {epoch+1}/{epochs}] Loss_D: {(lossD_real+lossD_fake).item():.4f}, Loss_G: {lossG.item():.4f}, Time: {now_time}")
+        print(f"[Epoch {epoch+1}/{epochs}] Loss_D: {lossD.item():.4f}, Loss_G: {lossG.item():.4f}, Time: {now_time}")
         with open(log_path, "a", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow([epoch+1, (lossD_real+lossD_fake).item(), lossG.item(), now_time])
+            writer.writerow([epoch+1, lossD.item(), lossG.item(), now_time])
 
-        # 샘플 이미지 저장 (10 에폭마다)
         if (epoch+1) % 10 == 0:
             with torch.no_grad():
                 fake = netG(fixed_noise, fixed_labels).detach().cpu()
-            vutils.save_image(
-                fake,
-                os.path.join(OUTPUT_DIR, f"epoch_{epoch+1}.png"),
-                normalize=True,
-                nrow=7   # 한 줄에 7개 (room_type=1~7)
-            )
+            vutils.save_image(fake, os.path.join(OUTPUT_DIR, f"epoch_{epoch+1}.png"),
+                              normalize=True, nrow=7)
 
-    # 모델 저장
     torch.save(netG.state_dict(), os.path.join(OUTPUT_DIR, "netG_final.pth"))
     print("✅ Generator 저장 완료")
 
-    # 타입별 10장씩 생성
     save_dir = os.path.join(OUTPUT_DIR, "generated_samples")
     os.makedirs(save_dir, exist_ok=True)
 
     netG.eval()
     with torch.no_grad():
-        for label in range(7):  # 0~6 (room_type=1~7)
+        for label in range(7):
             noise = torch.randn(10, 100, 1, 1, device=device)
             labels = torch.full((10,), label, dtype=torch.long, device=device)
-
             fake_imgs = netG(noise, labels).detach().cpu()
-            vutils.save_image(
-                fake_imgs,
-                os.path.join(save_dir, f"roomtype_{label+1}.png"),  # 다시 1~7로 저장
-                normalize=True,
-                nrow=5
-            )
+            vutils.save_image(fake_imgs, os.path.join(save_dir, f"roomtype_{label+1}.png"),
+                              normalize=True, nrow=5)
 
     print(f"✅ 각 타입별 10장씩 생성 완료 → {save_dir}")
